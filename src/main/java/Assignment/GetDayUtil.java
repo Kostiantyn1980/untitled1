@@ -8,6 +8,8 @@ import java.util.ArrayList;
         public String getDay(Integer dayNumber) {
             ArrayList<String> daysList = new ArrayList<>();
             daysList.add("Sunday");
+            daysList.add("Sunday1");
+            daysList.add("Sunday2");
             daysList.add("Monday");
             daysList.add("Tuesday");
             daysList.add("Wednesday");
